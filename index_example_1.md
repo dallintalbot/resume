@@ -1,86 +1,63 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+layout: cvs
+title: Dallin Talbot's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# DAllin Talbot
+BYU I student
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+   Dallin J. Talbot
+940 S 5th W Apt. 10104 Rexburg Idaho 83440                            	  (512) 239-9223-dallintalbot@hotmail.com 
 
 
-### Research interests
+EXPERIENCE
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Shift Manager
+Andy’s Frozen Custard, Pflugerville, Texas						July 2020- April 2021
+•	Helped drive over 1.5 million in sales in 2020 with a 20% increase in 2021
+•	Trained in all positions and had responsibility to maximize efficiency and lowering labor costs.
 
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Chick-fil-A Crew Member							Feb 2020- July 2020
+Chick-fil-a, Pflugerville, Texas
+•	Managed efficiency and excellent customer service with drive-thru orders in one of the busiest stores in Central Texas (about 6 million in sales)
 
 
 
-## Awards
+Arby's Crew Member, Shift Manager, GM					Sept 2018- Feb 2020
+Arby’s, Pflugerville, Texas							   
+•	Helped facilitate the opening of a new store as a crew member
+•	Led store as a shift manager with a focus on sales, great customer service and efficiency
+•	Promoted to GM and was tasked with helping open a new store 
+•	Managed a store as GM with responsibilities that included making schedule, hiring and termination, marketing, labor cost management, COGS and sales.
 
-`2012`
-President, *Royal Society*, London, UK
+	
+EDUCATION
 
-Associate, *French Academy of Science*, Paris, France
+Brigham Young University Idaho				                         	 September 2020 - Present 
+Rexburg, Idaho	                      
+•	Geo Business and Data Analytics Major
+•	Scheduled to graduate early 2022
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Brigham Young University					  	 September 2014 - 2020
+Provo, Utah	                      
+•	Took a variety of generals and others classes 
+•	AP Scholar with Distinction
+•	Member of National Honor Society
+•	Banking/Financial Systems and Accounting Medalist
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
+PERSONAL
+	
+•	Eagle Scout
+•	Seminary Graduate (4 years of religious studies)
+•	Served as a church volunteer in Fresno, California (2015-2017)
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
